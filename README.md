@@ -29,7 +29,7 @@ Bu yerda mening bajargan ishlarimni topishingiz mumkin.
 ## 📫 Bog'lanish:
 - **GitHub:** [github.com/farkhod-abdualiev](https://github.com/farkhod-abdualiev)  
 - **LinkedIn:** [linkedin.com/in/farkhod-abdualiev](https://www.linkedin.com/in/farkhod-abdualiev)  
-- **Telegram:** [t.me/@farxod_abdualiyev](https://t.me/username](https://t.me/farxod_abdualiyev)  
+- **Telegram:** [t.me/@farxod_abdualiyev](https://t.me/farxod_abdualiyev)  
 - **Email:** farkhodabdualiev@gmail.com  
 
 🔥 **Dasturlashga bo'lgan qiziqishim kundan kunga ortmoqda va yangi texnologiyalarni o'rganishga intilaman!**  
