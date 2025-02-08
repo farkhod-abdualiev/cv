@@ -28,7 +28,7 @@ Bu yerda mening bajargan ishlarimni topishingiz mumkin.
 
 ## 📫 Bog'lanish:
 - **GitHub:** [github.com/farkhod-abdualiev](https://github.com/farkhod-abdualiev)  
-- **LinkedIn:** [linkedin.com/in/farkhod-abdualiev/)]([https://linkedin.com/in/username](https://www.linkedin.com/in/farkhod-abdualiev/))  
+- **LinkedIn:** [linkedin.com/in/farkhod-abdualiev)]([https://linkedin.com/in/username](https://www.linkedin.com/in/farkhod-abdualiev/))  
 - **Telegram:** [@farxod_abdualiyev]([https://t.me/username](https://t.me/farxod_abdualiyev))  
 - **Email:** farkhodabdualiev@gmail.com  
 
